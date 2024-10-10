@@ -1,11 +1,13 @@
 import './App.css'
-import Dev from './pages/dev'
+// import Dev from './pages/dev'
+import Hero from './pages/Hero'
 
 function App() {
 
   return (
     <div>
-      <Dev />
+      {/* <Dev /> */}
+      <Hero />
     </div>
   )
 }
